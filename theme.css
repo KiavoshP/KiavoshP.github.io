@@ -73,24 +73,21 @@ color: #ffffff;
 }
 
 .bg-3 { 
-background-color: #FC7F03; /* Amazon Orange */
+background-color: #B3A369; /* Amazon Orange */
 color: #555555;
 }
 
 .bg-4 {
-background-color: #2f2f2f; /* Black Gray */
+background-color: #003057; /* Black Gray */
 color: #fff;
 }
 
 .bg-5 { 
-background-color: #008F11; /* Matrix Green */
+background-color: #857437; /* Matrix Green */
 color: #fff;
 }
 
-.bg-5 { 
-background-color: #008F11; /* Matrix Green */
-color: #fff;
-}
+
 
 .container-fluid {
 padding-top: 70px;
@@ -112,11 +109,11 @@ color: #1abc9c !important;
 }
 
 .text-primary {
-color: #FC7F03;
+color: #B3A369;
 }
 
 .text-secondery{
-color: #008F11;
+color: #857437;
 }
 
 
@@ -136,7 +133,7 @@ color: #008F11;
 
 .topBorder h3 {
     border-top: 1px solid #324659;
-    color: #fff;
+    color: #857437;
     display: inline-block;
     font-weight: bold;
     margin-bottom: 1.5em;
@@ -201,7 +198,7 @@ ul.tags li {
 
 
  h4 {
-    color: darkorange;
+    color: #B3A369;
 	font-size:1.1em;
 	margin-bottom: 0;
 }
@@ -262,7 +259,7 @@ ul.tags li {
 }
 
 .experience .company {
-	color: darkorange;
+	color: #B3A369;
 	font-size: 1.1em;
 }
 
